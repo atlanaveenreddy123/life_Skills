@@ -12,7 +12,7 @@
  Lucene is a low-level library used by both. It provides low-level search features. It is suitable when building a custom search engine. It is fast and reliable.
 
 ## Conclusoin
-Apache Lucene, Apache Solr, and Elasticsearch are all powerful technologies built for full-text search. Lucene serves as the foundational library, Solr provides an enterprise-grade search platform, and Elasticsearch delivers a modern distributed search engine.
+Apache Lucene, Apache Solr, and Elasticsearch are all powerful technologies built for full-text search. Lucene serves as the foundational library, Solr provides an enterprise-grade search platform, and Elasticsearch delivers a modern distributed search engine. 
 For systems experiencing performance and scalability issues, Elasticsearch is the most practical and future-proof choice due to its ease of scaling, operational simplicity, and strong real-time capabilities.
 
 ## References
